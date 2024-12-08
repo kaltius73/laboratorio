@@ -207,7 +207,7 @@ def leggi_reattivi():
 
 # Creazione della finestra principale
 root = tk.Tk()
-root.title("Gestione Strumenti e Reattivi di Laboratorio by Antonio Cufari ver. 1.1")
+root.title("Gestione Strumenti e Reattivi di Laboratorio ver. 1.1")
 
 # Creazione dei widget per gli strumenti
 frame_strumenti = tk.LabelFrame(root, text="Strumenti")
